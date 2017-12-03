@@ -1,0 +1,23 @@
+
+
+// comment
+
+/*
+/* Nested comment */
+*/
+
+Vec2 :: struct
+{
+   x : f32 = 123.456;
+   y : f32 = 789;
+}
+
+main :: fn() {
+   print("Hello world!\n");
+
+   a : i32 = 0x2cd346af;
+   b : i16 = 0b01101;
+   c := 4;
+   d := a;
+}
+
